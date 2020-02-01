@@ -1,0 +1,1 @@
+# dnscrypt-captive-portal-fix-etc-resolv.conf-
